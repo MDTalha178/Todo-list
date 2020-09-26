@@ -1,1 +1,1 @@
-web: gunicorn dajngo-project.wsgi
+web: gunicorn dajngo_project.wsgi
